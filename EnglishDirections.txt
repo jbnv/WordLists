@@ -1,0 +1,8 @@
+north
+south
+east
+west
+middle
+central
+upper
+lower

@@ -1,0 +1,15 @@
+apple
+banana
+fig
+garlic
+grape
+leek
+lettuce
+onion
+orange
+peach
+pear
+pepper
+plum
+tomato
+turnip
