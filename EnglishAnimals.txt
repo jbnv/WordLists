@@ -28,7 +28,7 @@ cormorant
 cow
 coyote
 crow
-deer
+deer|deer
 dingo
 dinosaur
 doe
@@ -39,7 +39,7 @@ elephant
 fawn
 ferret
 finch
-fish
+fish|fish
 fox
 frog
 gander
@@ -66,14 +66,17 @@ lemur
 leopard
 lion
 llama
-loris
+loris|lorises
+louse|lice
 manatee
 mink
 monkey
-mouse
+mouse|mice
+octopus|octopuses
 orangutan
 otter
 owl
+ox|oxen
 panda
 penguin
 platypus
@@ -83,7 +86,7 @@ rabbit
 raccoon
 ram
 raven
-rhino
+rhinoceros|rhinoceroses
 roe
 seal
 sheep
@@ -94,6 +97,7 @@ spider
 squirrel
 stag
 tiger
+tortoise
 turtle
 walrus
 wasp
