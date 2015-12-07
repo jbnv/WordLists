@@ -1,4 +1,5 @@
 Alonso
+Bega
 Cano
 Castillo
 Castro
@@ -38,3 +39,4 @@ Santos
 Serrano
 Torres
 Vargara
+Vega
