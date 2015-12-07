@@ -8,6 +8,8 @@ Bernard
 Bernardin
 Blanc
 Calv
+Centav
+Crist
 Doming
 Fernand
 Gerald
@@ -19,7 +21,9 @@ Iag
 Jalisc
 Jimen
 Juli
+Marc
 Mari
+Mart
 Martin
 Mateo
 Medin
@@ -31,6 +35,7 @@ Robert
 Sanch
 Siest
 Suar
+Vac
 Vasc
 Velasc
 Viej

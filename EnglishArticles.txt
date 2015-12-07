@@ -1,0 +1,10 @@
+the
+some|either
+any
+many|plural
+few|plural
+one
+two|plural
+three|plural
+four|plural
+five|plural

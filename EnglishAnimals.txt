@@ -13,20 +13,24 @@ beaver
 bee
 beetle
 bird
+bluebird
 buck
-buffalo
+buffalo|buffalo
 bull
 bumblebee
 camel
+cardinal
 chameleon
 cheetah
 chicken
 chinchilla
 chipmunk
+cobra
 copperhead
 cormorant
 cow
 coyote
+crawfish|crawfish
 crow
 deer|deer
 dingo
@@ -46,17 +50,18 @@ gander
 giraffe
 goose
 gopher
-grizzly
+grizzly|grizzlies
 hare
 hart
 hawk
 hedgehog
 hippo
+hog
 honeybee
 hornet
 hound
 hyena
-ibex
+ibex|ibexes
 iguana
 jackal
 jackrabbit
@@ -80,6 +85,7 @@ ox|oxen
 panda
 penguin
 platypus
+prawn
 python
 quagga
 rabbit
@@ -88,15 +94,24 @@ ram
 raven
 rhinoceros|rhinoceroses
 roe
+seagull
+seahorse
 seal
-sheep
+sea star
+sea urchin
+silverfish|silverfish
+sheep|sheep
 shrew
+shrimp|shrimp
 skunk
 sow
 spider
 squirrel
 stag
+starfish
 tiger
+tiger prawn
+tiger shark
 tortoise
 turtle
 walrus
