@@ -40,15 +40,17 @@ dolphin
 duck
 eagle
 elephant
+falcon
 fawn
 ferret
-finch
+finch|finches
 fish|fish
-fox
+fox|foxes
 frog
 gander
 giraffe
-goose
+goose|geese
+goldfish|goldfish
 gopher
 grizzly|grizzlies
 hare
@@ -59,17 +61,21 @@ hippo
 hog
 honeybee
 hornet
+horsefly|horseflies
 hound
 hyena
 ibex|ibexes
 iguana
+insect
 jackal
 jackrabbit
+kangaroo
 koala
 lamb
 lemur
 leopard
 lion
+lionfish|lionfish
 llama
 loris|lorises
 louse|lice
@@ -79,6 +85,7 @@ monkey
 mouse|mice
 octopus|octopuses
 orangutan
+osprey
 otter
 owl
 ox|oxen
@@ -94,7 +101,9 @@ ram
 raven
 rhinoceros|rhinoceroses
 roe
+rodent
 seagull
+seahawk
 seahorse
 seal
 sea star
@@ -113,12 +122,19 @@ tiger
 tiger prawn
 tiger shark
 tortoise
+trout
 turtle
-walrus
+viper
+vulture
+wallaby|wallabies
+walleye
+walrus|walruses
 wasp
 whale
 wolf
 wolverine
 wombat
 wren
+yak
+yellowtail
 zebra
