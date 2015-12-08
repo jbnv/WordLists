@@ -1,27 +1,74 @@
+almond
+aqua
+aquamarine
+auburn
 beige
+bisque
 black
+blond
 blue
 brown
 celadon
-cerullean
+cerulean
 chartreuse
+chocolate
+coral
+cornflower
+cornsilk
 crimson
+cyan
 fuscia
+gold
 golden
+goldenrod
 green
 gray
 grey
+honeydew
+hot pink
+indigo
+ivory
+lavender
+lime
+linen
+khaki
+magenta
 maroon
-navyblue
+Michigan State green
+mint cream
+mint green
+mocha
+mother-of-pearl
+navy blue
 ochre
+old lace
+olive
 orange
+orchid
 peach
 pink
+plum
 purple
-royalblue
+raspberry
+royal blue
 russet
+saddle brown
+salmon
+sandy brown
+sea green
 silver
+sky blue
+smoke
+spring green
+slate blue
+slate gray
+snow
+tan
 teal
+thistle
+turquoise
 vermilion
+violet
+wheat
 white
 yellow
