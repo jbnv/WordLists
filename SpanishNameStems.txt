@@ -7,6 +7,7 @@ Ben
 Bernard
 Blanc
 Calv
+Cast
 Cent
 Centav
 Chic
@@ -15,7 +16,9 @@ Doming
 Fernand
 Gerald
 Gerard
+Gom
 Gonzal
+Gord
 Guap
 Gutierr
 Hernand
@@ -23,12 +26,18 @@ Iag
 Jalisc
 Jimen
 Juli
+Ludvig
+Lun
+Lup
 Marc
 Mari
 Mart
 Med
+Navarr
+Nun
 Pac
 Pabl
+Panch
 Pasc
 Pedr
 Ricard
@@ -38,7 +47,9 @@ Sanch
 Siest
 Suar
 Vac
+Vaccar
 Vasc
 Velasc
 Viej
 Ximen
+Zen
