@@ -3,12 +3,13 @@ Alfons
 Alvar
 Alvin
 Angel
-Benit
+Ben
 Bernard
 Bernardin
 Blanc
 Calv
 Centav
+Chic
 Crist
 Doming
 Fernand
@@ -26,9 +27,10 @@ Marc
 Mari
 Mart
 Martin
-Mateo
 Medin
+Pac
 Pabl
+Pasc
 Pedr
 Ricard
 Roj
@@ -40,3 +42,4 @@ Vac
 Vasc
 Velasc
 Viej
+Ximen
