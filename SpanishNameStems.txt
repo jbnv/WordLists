@@ -1,13 +1,13 @@
 Albert
 Alfons
 Alvar
-Alvin
+Alv
 Angel
 Ben
 Bernard
-Bernardin
 Blanc
 Calv
+Cent
 Centav
 Chic
 Crist
@@ -26,8 +26,7 @@ Juli
 Marc
 Mari
 Mart
-Martin
-Medin
+Med
 Pac
 Pabl
 Pasc
