@@ -3,7 +3,7 @@ segund
 tercer
 cuart
 quint
-sexto
+sext
 séptim
 octav
 noven
