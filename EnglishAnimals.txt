@@ -31,14 +31,18 @@ copperhead
 cormorant
 cow
 coyote
+clownfish|clownfish
 crawfish|crawfish
 crow
+damselfish|damselfish
 deer|deer
 dingo
 dinosaur
 doe
 dolphin
+dragon
 duck
+dung beetle
 eagle
 elephant
 falcon
@@ -76,6 +80,7 @@ jaguar
 kangaroo
 killer whale
 koala
+ladybug
 lamb
 lemur
 leopard
@@ -134,6 +139,7 @@ tiger shark
 tortoise
 trout
 turtle
+unicorn
 viper
 vulture
 wallaby|wallabies
@@ -147,4 +153,5 @@ wombat
 wren
 yak
 yellowtail
+yellow jacket
 zebra
