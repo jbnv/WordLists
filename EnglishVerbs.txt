@@ -21,6 +21,7 @@ arriv{e}
 ask
 attack
 avoid
+bak{e}
 bas{e}
 be|is|are|was
 beat
@@ -29,11 +30,11 @@ begin|||began|beginning
 believ{e}
 belong
 break|||broke
+browse
 build
 burn
 buy|||bought
 call
-can
 car{e}
 carr{y}
 catch
@@ -51,9 +52,11 @@ collect
 come|||came|coming
 commit|||committed|committing
 compar{e}
+compete
 complain
 complet{e}
 concern
+conduct
 confirm
 connect
 consider
@@ -90,7 +93,8 @@ disappear
 discover
 discuss
 divid{e}
-do|does|do|defined
+do|does|do|doing
+doctor
 draw
 dress
 drink|||drank
@@ -189,8 +193,8 @@ meet
 mention
 mind
 miss|misses
+motion
 mov{e}
-must
 need
 notic{e}
 obtain
@@ -212,6 +216,7 @@ prepar{e}
 present
 press
 prevent
+proctor
 produc{e}
 promis{e}
 protect
@@ -316,7 +321,6 @@ warn
 wash
 watch
 wear
-will
 win
 wish
 wonder
