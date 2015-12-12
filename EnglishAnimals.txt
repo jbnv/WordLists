@@ -1,7 +1,8 @@
 aardvark
-aardwolf
+aardwolf|aardwolves
 alligator
 ant
+ape
 aphid
 anteater
 armadillo
@@ -19,20 +20,24 @@ buck
 buffalo|buffalo
 bull
 bumblebee
+buzzard
 camel
 cardinal
 chameleon
 cheetah
 chicken
+chimpanzee
 chinchilla
 chipmunk
 cobra
+cockroach
 copperhead
 cormorant
 cow
 coyote
 clownfish|clownfish
 crawfish|crawfish
+crocodile
 crow
 damselfish|damselfish
 deer|deer
@@ -50,6 +55,7 @@ fawn
 ferret
 finch|finches
 fish|fish
+foal
 fox|foxes
 frog
 gander
@@ -57,11 +63,13 @@ giraffe
 goose|geese
 goldfish|goldfish
 gopher
+gorilla
 grizzly|grizzlies
 hare
 hart
 hawk
 hedgehog
+hen
 heron
 hippo
 hippopotamus|hippopotami
@@ -79,6 +87,7 @@ jackrabbit
 jaguar
 kangaroo
 killer whale
+kitten
 koala
 ladybug
 lamb
@@ -103,23 +112,33 @@ otter
 owl
 ox|oxen
 panda
+panther
 penguin
+piranha
 platypus|platypuses
 prawn
+pup
+puppy
 python
 quagga
 rabbit
 raccoon
 ram
+rat
 raven
+reindeer
 reptile
 rhinoceros|rhinoceroses
+roach
 roe
+roebuck
 rodent
+rooster
 seagull
 seahawk
 seahorse
 seal
+sea lion
 sea star
 sea urchin
 silverfish|silverfish
@@ -130,9 +149,11 @@ skunk
 sow
 sperm whale
 spider
+spider monkey
 squirrel
 stag
-starfish
+starfish|starfish
+stork
 tiger
 tiger prawn
 tiger shark
@@ -147,7 +168,7 @@ walleye
 walrus|walruses
 wasp
 whale
-wolf
+wolf|wolves
 wolverine
 wombat
 wren
