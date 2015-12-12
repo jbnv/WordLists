@@ -1,10 +1,13 @@
 Brady
+Cash
 Coolidge
 Cook
 Cooper
 Davis
 Dublin
 Ford
+Flynn
+Frey
 Grant
 Jones
 King
@@ -16,4 +19,5 @@ Reagan
 Shreve
 Smith
 Taft
+Trump
 Weaver
