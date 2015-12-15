@@ -6,6 +6,8 @@ epsil
 het
 kapp
 lambd
+omeg
+omicr
 sigm
 thet
 upsil
