@@ -1,0 +1,16 @@
+EnglishAdjectives
+EnglishAnimals|nounOption
+EnglishCardinalNumbers
+EnglishColors
+EnglishFemaleNames
+EnglishFeminineSuffixes
+EnglishNamePrefixes1||prefixes that end in a consonant
+EnglishNamePrefixes2||prefixes that end in a vowel
+EnglishNameSuffixes1||suffixes that begin with a consonant
+EnglishNameSuffixes2||suffixes that begin with a vowel
+EnglishOrdinalNumbers
+EnglishPlants|nounOption
+EnglishRoadTypes
+EnglishSurnames
+EnglishTerrainWords
+EnglishVerbs|verbOption
