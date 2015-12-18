@@ -1,0 +1,10 @@
+boulevard
+drive
+highway
+lane
+parkway
+road
+street
+thruway
+trail
+way
