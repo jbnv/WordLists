@@ -2,6 +2,8 @@ EnglishAdjectives
 EnglishAnimals|nounOption
 EnglishCardinalNumbers
 EnglishColors
+EnglishDirections
+EnglishEdibles
 EnglishFemaleNames
 EnglishFeminineSuffixes
 EnglishNamePrefixes1||prefixes that end in a consonant
@@ -11,6 +13,7 @@ EnglishNameSuffixes2||suffixes that begin with a vowel
 EnglishOrdinalNumbers
 EnglishPlants|nounOption
 EnglishRoadTypes
+EnglishSubstances
 EnglishSurnames
 EnglishTerrainWords
 EnglishVerbs|verbOption
