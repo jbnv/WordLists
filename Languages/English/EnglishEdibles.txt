@@ -1,4 +1,5 @@
 apple
+asparagus
 banana
 fig
 garlic
@@ -11,5 +12,7 @@ peach
 pear
 pepper
 plum
+prune
+spinach
 tomato
 turnip
