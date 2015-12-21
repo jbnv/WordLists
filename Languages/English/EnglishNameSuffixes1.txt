@@ -46,10 +46,12 @@ cox
 craft
 crans
 crest
+croft
 dale
 dare
 darn
 dell
+diff
 dock
 docks
 dor
@@ -110,6 +112,7 @@ ley
 lin
 lind
 lock
+loft
 lon
 lord
 lot
