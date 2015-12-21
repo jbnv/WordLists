@@ -1,6 +1,10 @@
 Am
 Bol
+Bor
 Car
+Collin
+Conn
+Crom
 Donn
 Ed
 Em
@@ -18,7 +22,9 @@ Pey
 Rey
 Scan
 Sig
+Sim
 Sus
+Thom
 Wes
 Wal
 Wil
