@@ -6,3 +6,9 @@ middle
 central
 upper
 lower
+up
+down
+left
+right
+over
+under
