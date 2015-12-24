@@ -1,0 +1,106 @@
+alabama|Alabama|us
+alberta|Alberta|canada
+arizona|Arizona|us
+arkansas|Arkansas|us
+atlanta|Atlanta|georgia
+australia|Australia
+baltimore|Baltimore|maryland
+barbados|Barbados
+belgium|Belgium|europe
+birmingham-england|Birmingham, England|england
+boston|Boston|us
+bronx|Bronx|new-york-city
+brooklyn|Brooklyn|new-york-city
+california|California|us
+canada|Canada
+champaign-il|Champaign, IL|illinois
+charlotte|Charlotte|north-carolina
+chicago|Chicago|illinois
+colorado|Colorado|us
+connecticut|Connecticut|us
+dallas|Dallas|texas
+dc|Washington, DC|us
+denver|Denver|colorado
+detroit|Detroit|michigan
+edinburgh-scotland|Edinburgh, Scotland|scotland
+england|England|uk
+europe|Europe
+everett-wa|Everett, WA|washington
+flint-mi|Flint, MI|michigan
+florida|Florida|us
+gary-ind|Gary, Ind.|indiana
+georgia|Georgia|us
+germany|Germany|europe
+glasgow|Glasgow|scotland
+harlem|Harlem|new-york-city
+hawaii|Hawaii|us
+houston|Houston|texas
+illinois|Illinois|us
+indiana|Indiana|us
+indianapolis|Indianapolis|indiana
+jacksonville-fl|Jacksonville, FL|florida
+jamaica|Jamaica
+kansas|Kansas|us
+kentucky|Kentucky|us
+liverpool|Liverpool|england
+london|London|england
+long-island|Long Island|new-york
+los-angeles|Los Angeles|california
+louisiana|Louisiana|us
+louisville-ky|Louisville, KY|kentucky
+madison-wi|Madison, WI|wisconsin
+madrid|Madrid|spain
+manchester|Manchester|england
+manhattan|Manhattan|new-york-city
+maryland|Maryland|us
+massachusetts|Massachusetts|us
+melbourne|Melbourne|australia
+memphis|Memphis|tennessee
+miami|Miami|florida
+michigan|Michigan|us
+milwaukee|Milwaukee|wisconsin
+minneapolis|Minneapolis|us
+minnesota|Minnesota|us
+montreal|Montreal|quebec
+nashville|Nashville|tennessee
+newark-nj|Newark, NJ|new-jersey
+new-jersey|New Jersey|us
+new-orleans|New Orleans|louisiana
+new-york|New York|us
+new-york-city|New York City|new-york
+north-carolina|North Carolina|us
+northern-ireland|Northern Ireland|uk
+norway|Norway|europe
+oakland|Oakland|california
+ohio|Ohio|us
+oklahoma|Oklahoma|us
+oklahoma-city|Oklahoma City|oklahoma
+ontario|Ontario|canada
+oregon|Oregon|us
+orlando|Orlando|florida
+pennsylvania|Pennsylvania|us
+philadelphia|Philadelphia|pennsylvania
+phoenix|Phoenix|arizona
+pittsburgh|Pittsburgh|pennsylvania
+portland-or|Portland, OR|oregon
+quebec|Quebec|canada
+san-francisco|San Francisco|california
+santa-barbara|Santa Barbara|california
+scotland|Scotland|uk
+seattle|Seattle|us
+sheffield|Sheffield|england
+south-carolina|South Carolina|us
+spain|Spain|europe
+staten-island|Staten Island|new-york-city
+sweden|Sweden|europe
+sydney|Sydney, Australia|australia
+tennessee|Tennessee|us
+texas|Texas|us
+toronto|Toronto|ontario
+trinidad|Trinidad
+uk|United Kingdom
+us|United States
+virginia|Virginia|us
+washington|Washington|us
+west-virginia|West Virginia|us
+wisconsin|Wisconsin|us

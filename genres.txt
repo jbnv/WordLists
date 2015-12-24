@@ -1,0 +1,58 @@
+adult-alternative|Adult Alternative|alternative
+adult-contemporary|Adult Contemporary
+alternative-pop|Alternative Pop|pop,alternative
+alternative-rock|Alternative Rock|rock,alternative
+alternative|Alternative
+art-rock|Art Rock|rock
+blues-rock|Blues-Rock|rock,blues
+blues|Blues
+contemporary-christian|Contemporary Christian|pop
+country-rock|Country-Rock|rock
+country|Country
+christian|Christian
+dance-pop|Dance-Pop|pop,dance
+dance-rap|Dance-Rap|dance,rap
+dance|Dance
+disco-instrumental|Disco Instrumental|disco,instrumental
+disco|Disco|dance
+electro-pop|Electro-Pop, Techno-Pop, Synth-Pop|pop
+folk-rock|Folk Rock|rock
+funk-dance|Funk-Dance|funk,dance
+funk|Funk|urban
+gospel|Gospel|christian
+grunge|Grunge|rock
+hard-rock|Hard Rock|rock
+hip-hop|Hip Hop|urban
+jazz-pop|Jazz-Pop|pop,jazz
+jazz-rock|Jazz Rock|rock,jazz
+jazz|Jazz
+latin-dance|Latin Dance|dance,latin
+latin-pop|Latin Pop|pop
+latin-rap|Latin Rap|latin
+latin-rock|Latin Rock|latin
+latin|Latin
+metal|Metal|rock
+modern-rock|Modern Rock|rock
+new-jack-swing|New Jack Swing|urban
+new-wave|New Wave|pop
+novelty|Novelty
+orchestral-rock|Orchestral Rock|rock
+parody|Parody
+pop-ballad|Pop Ballad|pop
+pop-country|Pop-Country|pop,country
+pop-instrumental|Pop Instrumental|pop,instrumental
+pop-rock|Pop-Rock|pop,rock
+pop|Pop
+rap|Rap|urban
+reggae|Reggae
+rock-ballad|Rock Ballad|rock
+rock-instrumental|Rock Instrumental|rock
+rock|Rock
+rockabilly|Rockabilly|rock
+soft-rock|Soft Rock|rock,adult-contemporary
+soul|Soul|urban
+southern-rock|Southern Rock|rock
+techno-dance|Techno-Dance|dance
+urban-dance|Urban Dance|dance,urban
+urban-rock|Urban Rock|rock
+urban|Urban / R&B
