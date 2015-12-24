@@ -1,6 +1,7 @@
+# Minify all of the text files in the current folder.
 echo -n "{"
 delimiter2=""
-ls -1 $1*.txt | cut -d'.' -f 1 | while read -r filename
+ls -1 *.txt | cut -d'.' -f 1 | while read -r filename
   do
   delimiter1=""
   echo -n "$delimiter2\"$filename\":["

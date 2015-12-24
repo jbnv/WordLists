@@ -5,7 +5,7 @@ aden
 aer
 agap
 agath
-agri
+agr
 aikhm
 aiki
 ain
@@ -22,7 +22,9 @@ alopek
 amaryss
 ambik
 amni
+amph
 amygdal
+an
 andr
 ang
 angel
@@ -32,9 +34,13 @@ anth
 antholop
 anthrak
 anthrop
-apsinthi
+aphr
+apsinth
 arachn
+arch
 archae
+arg
+arg
 argill
 argyr
 arist
@@ -57,7 +63,6 @@ aut
 axi
 az
 azale
-bÃ³mbyk
 bain
 bapt
 barbar
@@ -69,12 +74,13 @@ blast
 blatt
 blephar
 bolb
+bombyk
 bor
 bore
 bosk
 boubal
-bronch
 brom
+bronch
 brot
 bry
 burs
@@ -129,7 +135,6 @@ gram
 graph
 gymn
 gyn
-hybr
 had
 hadr
 hagi
@@ -152,6 +157,7 @@ hol
 hom
 homer
 hopl
+hybr
 hypn
 hyps
 hyrak
@@ -160,9 +166,7 @@ i
 is
 ischi
 isthm
-kolph
-kyst
-kyph
+kak
 kakt
 kanth
 kapi
@@ -173,6 +177,7 @@ karot
 karp
 karsi
 kary
+kat
 kaust
 kedr
 kentr
@@ -189,6 +194,7 @@ klon
 koil
 koin
 koloph
+kolph
 kondyl
 konop
 kopr
@@ -198,10 +204,13 @@ korymb
 kosom
 kothorn
 krypt
+kry
 ky
 kyan
 kyd
 kykn
+kyph
+kyst
 kyt
 la
 labyrinthos
@@ -215,6 +224,7 @@ le
 leber
 lepid
 leps
+lept
 leth
 leuk
 lith
@@ -260,6 +270,7 @@ nephr
 nik
 o
 ochl
+ochr
 oid
 oik
 oin
@@ -281,7 +292,6 @@ pelm
 penth
 periss
 perk
-phyk
 phaidr
 phak
 phalakr
@@ -296,10 +306,12 @@ phoinik
 phok
 phot
 phrat
+phyk
 phyl
 plast
 plegik
 pleur
+plut
 pol
 polem
 polit
