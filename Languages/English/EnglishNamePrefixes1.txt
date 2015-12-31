@@ -7,10 +7,14 @@ Bor
 Brad
 Car
 Collin
+Court
 Conn
+Cox
+Cray
 Cres
 Crom
 Cun
+Day
 Donn
 Ed
 Em
@@ -32,6 +36,7 @@ Os
 Pay
 Pey
 Rey
+Roy
 Scan
 Sig
 Sim
