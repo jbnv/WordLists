@@ -42,6 +42,7 @@ mon
 mond
 n
 nan
+nard
 nand
 ons
 onz
@@ -58,8 +59,8 @@ v
 val
 vald
 van
+var
 ver
 vin
-vyl
 z
 zal
