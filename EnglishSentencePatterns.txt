@@ -1,0 +1,17 @@
+{singleNoun} {singlePresentVerb}.
+{singleNoun} {singlePresentVerb} {singleNoun}.
+{singleNoun} {singlePresentVerb} {pluralNoun}.
+{singleNoun} [can,could,shall,should,may,might,will,would] {intransitiveInfinitive}.
+{singleNoun} [can,could,shall,should,may,might,will,would] {transitiveInfinitive} [{singleNoun},{pluralNoun}].
+{singleNoun} [is,was] {adjective}.
+{pluralNoun} {pluralVerb}.
+{pluralNoun} {pluralVerb} {singleNoun}.
+{pluralNoun} {pluralVerb} {pluralNoun}.
+{pluralNoun} [can,could,shall,should,may,might,will,would] {intransitiveInfinitive}.
+{pluralNoun} [can,could,shall,should,may,might,will,would] {transitiveInfinitive} [{singleNoun},{pluralNoun}].
+{pluralNoun} [are,were] {adjective}.
+Who is {surname}?
+Who is {maleName}?
+Who is {femaleName}?
+Who is {maleFullName}?
+Who is {femaleFullName}?
