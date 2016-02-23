@@ -18,6 +18,7 @@ Ger
 Gon
 Gra
 Har
+Her
 Hor
 Isi
 Mor
@@ -25,8 +26,11 @@ Nor
 Os
 Ra
 Rey
+Ris
 Sig
 Sis
 Val
+Velas
+Vas
 Vil
 Vin
