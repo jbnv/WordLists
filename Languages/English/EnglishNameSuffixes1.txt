@@ -12,6 +12,7 @@ berk
 bern
 bert
 bex
+ble
 blood
 bor
 born
@@ -40,6 +41,7 @@ by
 caster
 chester
 cipher
+cle
 cliff
 cliffe
 coast
@@ -56,6 +58,7 @@ crans
 crat
 crest
 croft
+cule
 dale
 dare
 darn
@@ -65,8 +68,10 @@ den
 diff
 dock
 docks
+don
 dor
 dorce
+dorn
 dow
 dox
 drew
@@ -79,6 +84,7 @@ fellow
 felt
 fer
 field
+fire
 flight
 fold
 folk
@@ -105,12 +111,15 @@ good
 gor
 gord
 gould
+grad
+grade
 graham
 gram
 grant
 grew
 gross
 grove
+gry
 ham
 hammer
 hand
@@ -162,6 +171,7 @@ post
 pry
 quarter
 quell
+ren
 rich
 rike
 rix
@@ -193,6 +203,7 @@ styn
 teen
 ter
 ther
+thor
 thorn
 thorp
 ton
@@ -203,6 +214,8 @@ try
 van
 vane
 ver
+vil
+ville
 vyl
 walk
 walker
