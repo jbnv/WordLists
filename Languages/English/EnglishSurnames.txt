@@ -5,6 +5,7 @@ Brook
 Busey
 Cameron
 Cash
+Chase
 Chips
 Clancy
 Clegg
@@ -17,6 +18,7 @@ Corne
 Davis
 Dublin
 Fleet
+Floyd
 Flynn
 Frey
 Ford
@@ -34,6 +36,7 @@ Leon
 Lennox
 Levis
 Lewis
+Lloyd
 London
 Lowell
 Mack
@@ -48,6 +51,7 @@ Pober
 Nuttal
 Pratt
 Prichard
+Prentice
 Quarls
 Queen
 Quincy
@@ -78,3 +82,5 @@ Wiley
 Willis
 Wylie
 Weaver
+Yale
+York

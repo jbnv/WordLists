@@ -14,9 +14,12 @@ Annie
 Anne
 Annette
 Annie
+April
 Astrid
+Autumn
 Babs
 Barbara
+Bee
 Belinda
 Berenice
 Bernadette
@@ -55,6 +58,7 @@ Courtney
 Daisy
 Dana
 Danielle
+Dee
 Diana
 Dolores
 Donna
@@ -111,6 +115,7 @@ Mandy
 Marta
 Martha
 Mary
+May
 Megan
 Mel
 Melanie
@@ -143,6 +148,8 @@ Serena
 Shannon
 Sharon
 Shirley
+Spring
+Summer
 Susan
 Suzanne
 Tammy
@@ -166,4 +173,5 @@ Wendy
 Whitney
 Winnie
 Winifred
+Winter
 Zoe

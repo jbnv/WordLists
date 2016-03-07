@@ -10,6 +10,7 @@ Brook
 Cain
 Cameron
 Cash
+Chase
 Chip
 Charles
 Christian
@@ -29,6 +30,8 @@ Dublin
 Dwight
 Earl
 Emmet
+Enoch
+Floyd
 Flynn
 Ford
 Francis
@@ -48,8 +51,11 @@ Hugh
 Humphrey
 Ian
 Isaac
+Jack
+Jacob
 James
 Jason
+Jay
 John
 Jonas
 Jonathan
@@ -63,6 +69,7 @@ Leon
 Lennox
 Levis
 Lewis
+Lloyd
 London
 Malley
 Mark
@@ -96,6 +103,8 @@ Rudy
 Rudolph
 Roble
 Roscoe
+Sean
+Shawn
 Shreve
 Smith
 Spencer
@@ -112,3 +121,6 @@ Vance
 Vern
 William
 Walter
+Zachary
+Zane
+Zed
