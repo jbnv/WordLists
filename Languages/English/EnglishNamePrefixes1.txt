@@ -25,6 +25,7 @@ Bur
 Bus
 Butt
 Butter
+Cag
 Cald
 Car
 Cart
@@ -43,12 +44,14 @@ Crom
 Crow
 Cun
 Cus
+Dab
 Dan
 Dane
 Darn
 Day
 Donn
 Dor
+Dub
 Duke
 Ed
 Edge
@@ -95,6 +98,7 @@ Liver
 Lord
 Love
 Man
+Mans
 Mil
 Moon
 Mor

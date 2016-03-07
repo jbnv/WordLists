@@ -6,6 +6,7 @@ EnglishDirections
 EnglishEdibles
 EnglishFemaleNames
 EnglishFeminineSuffixes
+EnglishMaleNames
 EnglishNamePrefixes1||prefixes that end in a consonant
 EnglishNamePrefixes2||prefixes that end in a vowel
 EnglishNameSuffixes1||suffixes that begin with a consonant
@@ -15,5 +16,6 @@ EnglishPlants|nounOption
 EnglishRoadTypes
 EnglishSubstances
 EnglishSurnames
+EnglishSurnameNamePrefixes
 EnglishTerrainWords
 EnglishVerbs|verbOption

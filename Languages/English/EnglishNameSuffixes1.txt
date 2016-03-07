@@ -133,9 +133,11 @@ king
 lace
 land
 late
+lay
 ley
 lin
 lind
+lis
 lock
 loft
 lon
@@ -160,6 +162,7 @@ mont
 more
 mount
 nard
+ney
 not
 peare
 pence
@@ -213,7 +216,9 @@ trow
 try
 van
 vane
+vard
 ver
+vey
 vil
 ville
 vyl
