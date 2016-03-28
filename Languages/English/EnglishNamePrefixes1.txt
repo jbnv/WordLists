@@ -59,6 +59,7 @@ Edin
 Em
 Es
 Farn
+Farns
 Feb
 Fer
 Fill
@@ -67,7 +68,9 @@ Foll
 Fos
 Fur
 Gan
+Gen
 Ger
+Glad
 Glen
 Glou
 Glu

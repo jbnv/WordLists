@@ -31,6 +31,10 @@ Dublin
 Dwight
 Earl
 Emmet
+Enoch
+Ezra
+Ezekiel
+Fabian
 Flynn
 Ford
 Francis
@@ -53,6 +57,14 @@ Ian
 Isaac
 James
 Jason
+Jed
+Jedidiah
+Jerry
+Jeremiah
+Jeremy
+Jerome
+Jess
+Jesse
 John
 Jonas
 Jonathan
@@ -128,3 +140,5 @@ Vern
 William
 Walter
 Yancy
+Zane
+Zeke
