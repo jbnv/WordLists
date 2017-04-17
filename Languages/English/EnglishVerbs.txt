@@ -7,7 +7,7 @@ admir{e}
 admit|||admitted
 affect
 afford
-agre{e}
+agree|agrees|agree|agreed|agreeing
 aim
 alert
 allow
@@ -173,6 +173,7 @@ lead
 learn
 leave|||left|leaving
 lend
+lengthen
 let
 lie|||lied|lying
 lik{e}
@@ -183,6 +184,7 @@ liv{e}
 look
 lose|||lost|losing
 lov{e}
+lung{e}
 make|||made|making
 manag{e}
 mark
@@ -190,13 +192,17 @@ matter
 mean|||meant
 measur{e}
 meet
+mend
 mention
+mentor
 mind
 miss|misses
+monitor
 motion
 mov{e}
 need
 notic{e}
+nudg{e}
 obtain
 occur
 offer
@@ -270,6 +276,7 @@ settl{e}
 shak{e}
 shar{e}
 shoot
+short
 shout
 show
 shut
@@ -279,6 +286,7 @@ sleep
 smil{e}
 sort
 sound
+spank
 speak
 stand
 start
@@ -294,7 +302,10 @@ suit
 suppl{y}
 support
 suppos{e}
+supplant
+suppris{e}
 surviv{e}
+suspend
 take|||took|taking
 talk
 teach
@@ -321,8 +332,11 @@ warn
 wash
 watch
 wear
+welcom{e}
+wiggl{e}
 win
 wish
+wisk
 wonder
 work
 worr{y}
