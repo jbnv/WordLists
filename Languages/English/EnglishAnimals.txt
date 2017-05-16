@@ -23,6 +23,7 @@ bumblebee
 buzzard
 camel
 cardinal
+catfish|catfish
 chameleon
 cheetah
 chicken
@@ -33,6 +34,7 @@ cobra
 cockroach
 copperhead
 cormorant
+cottonmouth
 cow
 coyote
 clownfish|clownfish
@@ -44,6 +46,8 @@ deer|deer
 dingo
 dinosaur
 doe
+dog
+dogfish|dogfish
 dolphin
 dragon
 duck
@@ -65,6 +69,7 @@ goldfish|goldfish
 gopher
 gorilla
 grizzly|grizzlies
+halibut
 hare
 hart
 hawk
@@ -118,15 +123,16 @@ piranha
 platypus|platypuses
 prawn
 pup
-puppy
+puppy|puppies
 python
 quagga
+quail|quail
 rabbit
 raccoon
 ram
 rat
 raven
-reindeer
+reindeer|reindeer
 reptile
 rhinoceros|rhinoceroses
 roach
@@ -141,6 +147,7 @@ seal
 sea lion
 sea star
 sea urchin
+scorpion
 silverfish|silverfish
 sheep|sheep
 shrew
@@ -159,6 +166,7 @@ tiger prawn
 tiger shark
 tortoise
 trout
+tuna|tuna
 turtle
 unicorn
 viper
