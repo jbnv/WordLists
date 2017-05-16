@@ -89,14 +89,17 @@ design
 destroy
 develop
 die|||died|dying
+dim|||dimmed|dimming
+dip|||dipped|dipping
 disappear
 discover
 discuss
+div{e}
 divid{e}
 do|does|do|doing
 doctor
 draw
-dress
+dress|dresses
 drink|||drank
 drive|||drove|driving
 drop|||dropped|dropping
@@ -119,9 +122,9 @@ feed|||fed
 feel|||felt
 fight|||fought
 fill
-find
+find|||found
 finish
-fit
+fit|||fitted|fitting
 fl{y}
 fold
 follow
@@ -131,7 +134,7 @@ forgiv{e}
 form
 found
 gain
-get
+get|||got|getting
 give|||gave|giving
 go|goes|go|went|going
 grow|||grew
@@ -143,7 +146,7 @@ head
 hear
 help
 hid{e}
-hit
+hit|||hit|hitting
 hold
 hop{e}
 hurt|||hurt
@@ -174,7 +177,7 @@ learn
 leave|||left|leaving
 lend
 lengthen
-let
+let|||let|letting
 lie|||lied|lying
 lik{e}
 limit
@@ -214,7 +217,7 @@ pay|||paid
 perform
 pick
 plac{e}
-plan
+plan|||planned|planning
 play
 point
 prefer
@@ -262,7 +265,7 @@ reveal
 ring|||rang
 rise|||rose|rising
 roll
-run
+run|||ran|running
 sav{e}
 say|||said
 see|||saw
@@ -279,7 +282,7 @@ shoot
 short
 shout
 show
-shut
+shut|||shut|shutting
 sing
 sit|||sat|sitting
 sleep
@@ -292,7 +295,7 @@ stand
 start
 stat{e}
 stay
-stick
+stick|||stuck
 stop|||stopped|stopping
 stud{y}
 succeed
@@ -317,6 +320,9 @@ think
 throw
 touch
 train
+transfer
+translat{e}
+transport
 travel
 treat
 tr{y}
@@ -331,10 +337,10 @@ want
 warn
 wash
 watch
-wear
+wear|||wore
 welcom{e}
 wiggl{e}
-win
+win|||won|winning
 wish
 wisk
 wonder
