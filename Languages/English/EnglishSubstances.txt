@@ -16,7 +16,7 @@ paper
 pearl
 quartz
 rain
-ruby
+ruby|rubies
 sand
 sapphire
 silver
@@ -25,7 +25,7 @@ soil
 tar
 vinegar
 water
-wax
+wax|waxes
 weather
 wood
 zinc
