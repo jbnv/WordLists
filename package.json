@@ -1,0 +1,7 @@
+{
+  "name": "WordLists",
+  "version": "1.0.0",
+  "description": "Lists of words in various languages, for use in data generation programs.",
+  "author": "Jay Bienvenu",
+  "license": "ISC"
+}
